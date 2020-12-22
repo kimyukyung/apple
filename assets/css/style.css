@@ -5,7 +5,7 @@
 .row {position: relative; margin: 0 20px;}
 
 /* header */
-#header {}
+#header {height: 100px; background: #ddd;}
 
 #header .header-data {}
 #header .header-title {}
