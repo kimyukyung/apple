@@ -26,9 +26,16 @@
     font-weight: 300;
     font-size: 18px;
     color: #fff;
+    /*text-align: center;
+    line-height: 40;*/
     display: flex;
     align-items: center;
     justify-content: center;
     text-transform: uppercase;
     background: linear-gradient(149.16deg, #A4A9B5 10.18%, rgba(164, 169, 181, 0) 81.31%), #C4C4C4;
 } 
+
+/* mediaquery */
+@media(max-width: 1020px){
+    .container {width: 100%;}
+}
