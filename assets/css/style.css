@@ -23,5 +23,8 @@
     width: 40px; 
     height: 40px;
     border-radius: 50%;
+    font-weight: 500;
+    font-size: 18px;
+    color: #fff;
     background: linear-gradient(149.16deg, #A4A9B5 10.18%, rgba(164, 169, 181, 0) 81.31%), #C4C4C4;
 }
