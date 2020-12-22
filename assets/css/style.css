@@ -19,11 +19,11 @@
     font-size: 32px;
 }
 #header .header-id {
-    position: absolute; right: 0; bottom: 10px;
+    position: absolute; right: 0; bottom: 5px;
     width: 40px; 
     height: 40px;
     border-radius: 50%;
-    font-weight: 500;
+    font-weight: 300;
     font-size: 18px;
     color: #fff;
     display: flex;
@@ -31,5 +31,4 @@
     justify-content: center;
     text-transform: uppercase;
     background: linear-gradient(149.16deg, #A4A9B5 10.18%, rgba(164, 169, 181, 0) 81.31%), #C4C4C4;
-}
-#header .header-id span {display: block;}
+} 
