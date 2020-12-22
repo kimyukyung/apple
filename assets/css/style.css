@@ -10,11 +10,11 @@
 #header .header-data {
     font-weight: 600;
     font-size: 12px;
+    padding-top: 30px;
 }
 #header .header-title {
     font-weight: bold;
     font-size: 32px;
-    padding-top: 30px;
 }
 #header .header-id {
     position: absolute; right: 0; bottom: 10px;
