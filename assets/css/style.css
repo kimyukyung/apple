@@ -22,5 +22,6 @@
     position: absolute; right: 0; bottom: 10px;
     width: 40px; 
     height: 40px;
+    border-radius: 50%;
     background: linear-gradient(149.16deg, #A4A9B5 10.18%, rgba(164, 169, 181, 0) 81.31%), #C4C4C4;
 }
