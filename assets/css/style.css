@@ -44,9 +44,9 @@
 .bestM .best-title .bt-desc {font-size: 22px; font-weight: 300; color: #818181; margin-bottom: 10px;}
 
 /* recent */
-.recentM h2 {}
-.recent .recent-title .bt-stit {font-size: 15px;}
-.recent .recent-title .bt-tit {color: #908f94; font-size: 15px;}
+.recentM h2 {font-size: 20px;}
+.recentM .recent-title .bt-stit {font-size: 15px;}
+.recentM .recent-title .bt-tit {color: #908f94; font-size: 15px;}
 
 /* mediaquery */
 @media(max-width: 1020px){
