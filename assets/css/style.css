@@ -43,6 +43,11 @@
 .bestM .best-title .bt-tit {font-size: 22px; padding-bottom: 5px;}
 .bestM .best-title .bt-desc {font-size: 22px; font-weight: 300; color: #818181; margin-bottom: 10px;}
 
+/* recent */
+.recentM h2 {}
+.recent .recent-title .bt-stit {font-size: 15px;}
+.recent .recent-title .bt-tit {color: #908f94; font-size: 15px;}
+
 /* mediaquery */
 @media(max-width: 1020px){
     .container {width: 100%;}
