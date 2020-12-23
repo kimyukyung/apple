@@ -43,7 +43,7 @@
 .bestM .best-title {}
 .bestM .best-title .bt-stit {color: #da5e7c; font-size: 12px; line-height: 1.67;}
 .bestM .best-title .bt-tit {font-size: 22px; padding-bottom: 5px;}
-.bestM .best-title .bt-desc {font-size: 22px; font-weight: 300;}
+.bestM .best-title .bt-desc {font-size: 22px; font-weight: 300; color: #818181; margin-bottom: 10px;}
 
 /* mediaquery */
 @media(max-width: 1020px){
