@@ -48,8 +48,8 @@
 .recentM .recent {float: left; width: 49%; margin-right: 2%;}
 .recentM .recent:last-child {margin-right: 0;}
 .recentM h2 {font-size: 20px; font-weight: bold; margin-bottom: 12px; margin-top: 16px; padding-top: 20px; border-top: 1px solid #ebebeb;}
-.recentM .recent-title .bt-stit {font-size: 15px;}
-.recentM .recent-title .bt-tit {color: #908f94; font-size: 15px;}
+.recentM .recent-title .rt-stit {font-size: 15px; line-height: 1.9;}
+.recentM .recent-title .rt-tit {color: #908f94; font-size: 15px;}
 
 /* mediaquery */
 @media(max-width: 1020px){
