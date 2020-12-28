@@ -58,7 +58,7 @@
 .nextM .next:after {
     content: '';
     position: absolute; right: 0; bottom: -8px;
-    width: 100%;
+    width: calc(100% - 114px);
     height: 1px;
     background: #ebebeb;
 }
