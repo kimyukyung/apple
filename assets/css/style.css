@@ -63,7 +63,7 @@
     background: #ebebeb;
 }
 .nextM .next .next-img {width: 102px; margin-right: 12px;}
-.nextM .next .next-tit {}
+.nextM .next .next-tit {display: flex; flex-direction: column; justify-content: center;}
 .nextM .next .next-tit .nt-stit {color: #da5e7c; font-size: 12px;}
 .nextM .next .next-tit .nt-tit {font-size: 16px;}
 .nextM .next .next-tit .nt-desc {
